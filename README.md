@@ -1,14 +1,16 @@
-# (Nombre del proyecto)
+# (Animación Starface)
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : (Animación Starface)
 
 Web: (url github.io)
 
-Autor: (Nombre apellidos)
+Autor: (María Señoranes Muñoz)
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen :Este proyecto consistirá en una animación de una pequeña introducción del personaje al quien entre al blog, al más puro estilo bloguero, donde Starface, una estrella fugaz con una cara peculiar, nos cuenta sus aventuras y experiencias por diferentes rincones de la galaxia.
+Dicha animació9n, donde podemos ver una estrella que va girando y se estampa contra la pantalla y aparece Starface, saludando
+al espectador con esa característica cara. Después de esa cortinilla, aparecerá la página web de dicho personaje, que nos compartirá sus experiencias y viajes por diferentes lugares de la galaxia, regalándonos opiniones y fotos de sus aventuras.
 
 Estilo/género: Novela / juego / portfolio / documental... etc.
 
