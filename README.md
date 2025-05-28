@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/48bb7fed-4cd6-4306-ae98-cfce279ba048)# (web Starface práctica 1.3)
+# (web Starface práctica 1.3)
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
