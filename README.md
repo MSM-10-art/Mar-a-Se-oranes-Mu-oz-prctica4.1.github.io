@@ -67,10 +67,3 @@ Colaboradores de Wikipedia. (2025f, mayo 1). Super Mario Galaxy. Wikipedia, la E
 Destello. (s. f.). Wikifandom. https://mario.fandom.com/es/wiki/Destello
 Colaboradores de Wikipedia. (2025a, mayo 22). Luna. Wikipedia, la Enciclopedia Libre. https://es.wikipedia.org/wiki/Luna
 
-
-
-**Enlace del proyecto**
-file:///C:/Users/MARIA/OneDrive/Escritorio/Facultad%20Bellas%20Artes/2%C2%BA/segundo%20cuatrimestre/creaci%C3%B3n%20multimedia/Practicas%20que%20involucran%20a%20Starface/pr%C3%A1ctica%204.1%20index.html/Mar%C3%ADaSe%C3%B1oranesGrupoQpr%C3%A1ctica.github.io.html
-
-
-Mayo 2025
